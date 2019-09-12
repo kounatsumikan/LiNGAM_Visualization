@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 from graphviz import Digraph
-from LiNGAM_model import estimate
+from src.LiNGAM_model import estimate
 
 
 class LiNGAM():

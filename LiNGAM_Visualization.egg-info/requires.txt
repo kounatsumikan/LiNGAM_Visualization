@@ -1,0 +1,4 @@
+graphviz
+sklearn
+numpy
+munkres
